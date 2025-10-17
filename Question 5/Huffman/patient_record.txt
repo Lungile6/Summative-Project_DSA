@@ -1,0 +1,43 @@
+Patient ID: P001
+Name: John Smith
+Age: 45
+Gender: Male
+Date of Birth: 1978-03-15
+Address: 123 Main Street, Anytown, USA
+Phone: (555) 123-4567
+Email: john.smith@email.com
+
+Medical History:
+- Hypertension (diagnosed 2015)
+- Type 2 Diabetes (diagnosed 2018)
+- Allergic to Penicillin
+
+Current Medications:
+1. Metformin 500mg twice daily
+2. Lisinopril 10mg once daily
+3. Atorvastatin 20mg once daily
+
+Recent Lab Results (2023-12-01):
+- Blood Pressure: 140/90 mmHg
+- Fasting Glucose: 145 mg/dL
+- HbA1c: 7.2%
+- Total Cholesterol: 220 mg/dL
+- LDL: 140 mg/dL
+- HDL: 45 mg/dL
+- Triglycerides: 180 mg/dL
+
+Vital Signs:
+- Height: 5'10"
+- Weight: 185 lbs
+- BMI: 26.5
+- Heart Rate: 78 bpm
+- Temperature: 98.6°F
+
+Next Appointment: 2024-01-15 at 2:00 PM
+Physician: Dr. Sarah Johnson
+Specialty: Internal Medicine
+
+Notes:
+Patient reports good medication compliance. Advised to continue current treatment plan.
+Recommended dietary modifications and regular exercise.
+Follow-up in 3 months for diabetes management review.
